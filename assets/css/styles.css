@@ -14,9 +14,6 @@
   background-color: #C60B1E!important;
 }
 
-.navbar.navbar-light.navbar-expand-md.navbar-transparent {
-}
-
 .navbar-light .navbar-nav .nav-link {
   color: #fff;
 }
@@ -298,3 +295,6 @@ footer a:hover {
   color: #fff;
 }
 
+.navbar-page{
+  background-color: #d9002b !important;
+}
